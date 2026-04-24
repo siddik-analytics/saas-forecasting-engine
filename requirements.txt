@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+duckdb
+scikit-learn
+statsmodels
+matplotlib
+python-dotenv
+pydantic
+pydantic-settings
